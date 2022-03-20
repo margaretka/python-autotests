@@ -4,7 +4,7 @@ import time
 from selenium.webdriver.common.by import By
 
 try:
-    link = "http://suninjuly.github.io/registration1.html"
+    link = "http://suninjuly.github.io/registration2.html"
     browser = webdriver.Chrome()
     browser.get(link)
     # Ваш код, который заполняет обязательные поля
